@@ -1,0 +1,332 @@
+@media only screen and (max-width: 1125px) {
+  .box-section .choice-clothes {
+    -ms-grid-columns: 2fr 1fr;
+    grid-template-columns: 2fr 1fr; }
+    .box-section .choice-clothes .checkbox label {
+      font-size: 16px; }
+      .box-section .choice-clothes .checkbox label:before {
+        width: 20px;
+        height: 20px; }
+    .box-section .choice-clothes .button input[type=button] {
+      font-size: 14px;
+      padding: 19px 32px; }
+  .data {
+    font-size: 16px; }
+    .data .section-about {
+      padding: 50px 15px; }
+      .data .section-about .about-subtitle {
+        padding: 75px 200px; }
+        .data .section-about .about-subtitle .about-title {
+          left: 42%; } }
+
+@media only screen and (max-width: 835px) {
+  .box-section {
+    padding: 50px 0;
+    background-color: #f5f6f7; }
+    .box-section .choice-clothes {
+      -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr; }
+      .box-section .choice-clothes .checkbox {
+        -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr; }
+  .goods {
+    font-size: 16px; }
+    .goods .good-section {
+      padding: 70px 0; }
+      .goods .good-section .good-men {
+        margin-bottom: 80px; }
+        .goods .good-section .good-men h4 {
+          font-size: 20px;
+          margin-bottom: 75px; }
+          .goods .good-section .good-men h4:after {
+            width: 89%;
+            margin-left: 80px; }
+        .goods .good-section .good-men .men-clothes {
+          -ms-grid-columns: 1fr 1fr;
+          grid-template-columns: 1fr 1fr;
+          grid-gap: 60px; }
+          .goods .good-section .good-men .men-clothes .box-tShirt .clothes {
+            margin-bottom: 30px; }
+      .goods .good-section .good-women h4 {
+        margin-bottom: 75px; }
+        .goods .good-section .good-women h4:before {
+          width: 85%; }
+      .goods .good-section .good-women .women-clothes {
+        -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 60px; }
+    .goods .section-about {
+      padding: 50px 15px; }
+      .goods .section-about .about-subtitle {
+        padding: 70px 150px; }
+        .goods .section-about .about-subtitle .about-title {
+          left: 42%; } }
+
+@media only screen and (max-width: 767px) {
+  .main-header .header-inner .header-title h1 {
+    font-size: 45px; }
+  .box-section {
+    padding: 50px 0; }
+    .box-section .choice-clothes {
+      -ms-grid-columns: 2fr 1fr;
+      grid-template-columns: 2fr 1fr; }
+      .box-section .choice-clothes .checkbox label {
+        font-size: 14px;
+        padding-left: 10px; }
+        .box-section .choice-clothes .checkbox label:before {
+          width: 20px;
+          height: 20px;
+          margin-right: 10px;
+          margin-left: -15px; }
+      .box-section .choice-clothes .button input[type=button] {
+        font-size: 12px;
+        padding: 15px 28px; }
+  .data {
+    font-size: 16px; }
+    .data .section-about {
+      padding: 50px 15px; }
+      .data .section-about .about-subtitle {
+        padding: 70px 150px; }
+        .data .section-about .about-subtitle .about-title {
+          left: 41%; } }
+
+@media only screen and (max-width: 610px) {
+  .main-header .header-inner .header-nav a {
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-left: 15px; }
+  .main-header .header-inner .header-title h1 {
+    font-size: 40px;
+    letter-spacing: 4px; }
+  .main-header .header-inner .header-title span {
+    font-size: 16px; }
+  .box-section {
+    padding: 50px 0; }
+    .box-section .choice-clothes {
+      -ms-grid-columns: 2fr 1fr;
+      grid-template-columns: 2fr 1fr; }
+      .box-section .choice-clothes .checkbox label {
+        font-size: 14px;
+        padding-left: 10px; }
+        .box-section .choice-clothes .checkbox label:before {
+          width: 20px;
+          height: 20px;
+          margin-right: 10px;
+          margin-left: -15px; }
+  .goods .good-section {
+    padding: 70px 0; }
+    .goods .good-section .good-men {
+      margin-bottom: 80px; }
+      .goods .good-section .good-men h4 {
+        font-size: 20px;
+        margin-bottom: 75px; }
+        .goods .good-section .good-men h4:after {
+          width: 85%;
+          margin-left: 80px; }
+      .goods .good-section .good-men .men-clothes {
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+        grid-gap: 45px; }
+        .goods .good-section .good-men .men-clothes .box-tShirt .clothes {
+          margin-bottom: 30px; }
+    .goods .good-section .good-women h4 {
+      margin-bottom: 75px; }
+      .goods .good-section .good-women h4:before {
+        width: 75%; }
+    .goods .good-section .good-women .women-clothes {
+      -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+      grid-gap: 45px; }
+  .data {
+    font-size: 16px; }
+    .data .section-about {
+      padding: 70px 15px; }
+      .data .section-about .about-subtitle {
+        padding: 50px 95px; }
+        .data .section-about .about-subtitle .about-title {
+          padding: 10px 12px;
+          top: -20px;
+          font-size: 20px;
+          left: 38%; } }
+
+@media only screen and (max-width: 510px) {
+  .main-header .header-inner {
+    -ms-grid-columns: 1fr 2fr;
+    grid-template-columns: 1fr 2fr; }
+    .main-header .header-inner .header-nav a {
+      font-size: 16px;
+      letter-spacing: 1px;
+      margin-left: 15px; }
+    .main-header .header-inner .header-title h1 {
+      font-size: 35px;
+      letter-spacing: 4px; }
+    .main-header .header-inner .header-title span {
+      font-size: 16px; }
+  .box-section {
+    padding: 50px 0; }
+    .box-section .choice-clothes {
+      -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr; }
+      .box-section .choice-clothes .checkbox {
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr; }
+      .box-section .choice-clothes .button input[type=button] {
+        font-size: 12px;
+        padding: 10px 22px; }
+  .goods .good-section {
+    padding: 70px 0; }
+    .goods .good-section .good-men {
+      margin-bottom: 70px; }
+      .goods .good-section .good-men h4:after {
+        width: 87%;
+        margin-left: 60px; }
+  .data {
+    font-size: 14px; }
+    .data .section-about {
+      padding: 60px 15px; }
+      .data .section-about .about-subtitle {
+        padding: 45px 80px; }
+        .data .section-about .about-subtitle .about-title {
+          padding: 10px 12px;
+          top: -20px;
+          font-size: 20px;
+          left: 36%; }
+  .main-footer .section-footer .footer-contact .contact-nav {
+    font-size: 13px; }
+  .main-footer .section-footer .footer-contact span {
+    font-size: 16px; } }
+
+@media only screen and (max-width: 410px) {
+  .main-header .header-inner {
+    -ms-grid-columns: .5fr 2fr;
+    grid-template-columns: .5fr 2fr; }
+    .main-header .header-inner .header-nav a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      margin-left: 15px; }
+    .main-header .header-inner .header-title h1 {
+      font-size: 25px;
+      letter-spacing: 3px; }
+    .main-header .header-inner .header-title span {
+      font-size: 14px; }
+  .goods .good-section {
+    padding: 70px 0; }
+    .goods .good-section .good-men {
+      margin-bottom: 70px; }
+      .goods .good-section .good-men h4:after {
+        width: 82%;
+        margin-left: 60px; }
+    .goods .good-section .good-women h4 {
+      margin-bottom: 75px;
+      margin-left: 20px; }
+      .goods .good-section .good-women h4:before {
+        width: 72%; }
+    .goods .good-section .good-women .women-clothes {
+      -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+      grid-gap: 45px; }
+  .data {
+    font-size: 12px; }
+    .data .section-about {
+      padding: 50px 15px; }
+      .data .section-about .about-subtitle {
+        padding: 30px 65px; }
+        .data .section-about .about-subtitle .about-title {
+          left: 32%; }
+  .twitter {
+    padding: 22px 0; }
+    .twitter .section-twitter p {
+      font-size: 14px;
+      padding: 0 15px; }
+  .main-footer .section-footer .footer-contact .contact-nav {
+    font-size: 12px; }
+  .main-footer .section-footer .footer-contact span {
+    font-size: 15px; } }
+
+@media only screen and (max-width: 360px) {
+  .main-header .header-inner {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: 1fr 1fr 10fr;
+    grid-template-rows: 1fr 1fr 10fr; }
+    .main-header .header-inner .header-nav {
+      -ms-grid-column-align: start;
+      justify-self: start;
+      -ms-grid-row: 2;
+      grid-row: 2; }
+      .main-header .header-inner .header-nav a {
+        font-size: 16px;
+        letter-spacing: 1px;
+        margin-left: 0; }
+    .main-header .header-inner .header-title h1 {
+      font-size: 25px;
+      letter-spacing: 3px; }
+    .main-header .header-inner .header-title span {
+      font-size: 14px; }
+  .box-section {
+    padding: 50px 0; }
+    .box-section .choice-clothes {
+      -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr; }
+      .box-section .choice-clothes .checkbox {
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr; }
+      .box-section .choice-clothes .button {
+        -ms-grid-row: 2;
+        grid-row: 2;
+        -ms-grid-column-align: start;
+        justify-self: start; }
+        .box-section .choice-clothes .button input[type=button] {
+          font-size: 12px;
+          padding: 10px 22px; }
+  .goods .good-section {
+    padding: 70px 0; }
+    .goods .good-section .good-men {
+      margin-bottom: 70px; }
+      .goods .good-section .good-men h4:after {
+        width: 82%;
+        margin-left: 60px; }
+    .goods .good-section .good-women h4 {
+      margin-bottom: 75px;
+      margin-left: 20px; }
+      .goods .good-section .good-women h4:before {
+        width: 65%; }
+    .goods .good-section .good-women .women-clothes {
+      -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+      grid-gap: 45px; }
+  .twitter {
+    padding: 22px 0; }
+    .twitter .section-twitter p {
+      font-size: 12px;
+      padding: 0 12px; }
+  .data {
+    font-size: 12px; }
+    .data .section-about {
+      padding: 50px 15px; }
+      .data .section-about .about-subtitle {
+        padding: 30px 45px; }
+        .data .section-about .about-subtitle .about-title {
+          left: 26%; } }
+
+@media only screen and (max-width: 320px) {
+  .data {
+    font-size: 12px; }
+    .data .section-about {
+      padding: 40px 15px; }
+      .data .section-about .about-subtitle {
+        padding: 30px 35px; }
+        .data .section-about .about-subtitle .about-title {
+          font-size: 18px;
+          left: 26%; }
+  .twitter {
+    padding: 22px 0; }
+    .twitter .section-twitter p {
+      font-size: 12px;
+      padding: 0 5px; }
+  .main-footer .section-footer {
+    min-height: 350px; }
+    .main-footer .section-footer .footer-contact .contact-nav {
+      font-size: 12px; }
+    .main-footer .section-footer .footer-contact span {
+      font-size: 12px; } }
